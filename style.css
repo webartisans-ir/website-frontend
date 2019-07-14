@@ -1,0 +1,63 @@
+body {
+    background-image: url("img/37218591-plain-black-wallpaper.jpg");
+    width: auto;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+}
+
+#logo {
+    width: 50px;
+    height: 50px;
+}
+
+#logo_text {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
+#profile_div {
+    background-color: #1FA184;
+}
+
+button {
+    font-family: 'Aldrich', sans-serif;
+}
+
+h1, #name {
+    font-family: 'Aldrich', sans-serif;
+    color: whitesmoke;
+}
+
+.content {
+    background-color: #313c42;
+}
+
+span, p, #description {
+    font-family: 'Armata', sans-serif;
+    color: white;
+}
+
+#share_icon {
+    border-color: #1FA184;
+}
+
+.music_icon {
+    color: white;
+    font-size: 30px;
+    padding-right: 20px;
+}
+
+.check_icon {
+    color: white;
+    font-size: 20px;
+    padding-right: 20px;
+}
+hr{
+    width: 80%;
+    text-align: center;
+}
